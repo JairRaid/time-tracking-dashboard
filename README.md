@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/JairRaid/time-tracking-dashboard
 - Live Site URL: 
 
 ## My process
