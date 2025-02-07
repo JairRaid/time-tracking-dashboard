@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/JairRaid/time-tracking-dashboard
-- Live Site URL: 
+- Live Site URL: https://jairraid.github.io/time-tracking-dashboard/
 
 ## My process
 
