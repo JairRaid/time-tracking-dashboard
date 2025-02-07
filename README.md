@@ -1,6 +1,6 @@
-# Frontend Mentor - Article preview component solution
+# Frontend Mentor - Time tracking dashboard solution
 
-This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -21,13 +21,13 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 Users should be able to:
 
-- View the optimal layout for the component depending on their device's screen size
-- See the social media share links when they click the share icon
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Switch between viewing Daily, Weekly, and Monthly stats
 
 ### Screenshot
 
 ![](./screenshot.png)
-
 
 ### Links
 
@@ -43,12 +43,12 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - SASS
-- Anime JS
+- JS
 - Mobile-first workflow
 
 ### What I learned
 
-I learned to create animation with anime JS and create the downward triangle in the share links desktop.
+I learned to manipulate JSON data and using CSS filter property to change color of an SVG.
 
 ## Author
 
