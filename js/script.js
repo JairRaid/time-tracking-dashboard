@@ -3,7 +3,7 @@ console.log(timeFrameList);
 
 const selectedTimeFrame = "daily";
 
-const url = "/data.json";
+const url = "./data.json";
 let timeTrackingData = null;
 const previous = {
     daily: "Yesterday",
